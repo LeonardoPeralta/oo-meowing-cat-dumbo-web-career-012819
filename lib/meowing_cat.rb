@@ -1,10 +1,10 @@
 ## code your solution here.
 class Cat
 
-attr_accessor :meow
+attr_accessor :name
 
-def initialize(cat)
-    @cat = cat
+def initialize(name)
+    @name = name
   end
 
 end
