@@ -3,8 +3,8 @@ class Cat
 
 attr_accessor :meow
 
-def initialize(meow)
-    @meow = meow
+def initialize(cat)
+    @cat = cat
   end
 
 end
