@@ -15,6 +15,6 @@ end
     puts "Meow!"
   end
 
-puts meow
+meow
 
 end
