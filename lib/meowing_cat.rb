@@ -15,5 +15,4 @@ attr_accessor :name
     puts "Meow!"
   end
 
-
 end
