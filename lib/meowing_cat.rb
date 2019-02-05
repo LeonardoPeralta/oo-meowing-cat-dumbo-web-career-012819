@@ -15,6 +15,5 @@ end
     puts "Meow!"
   end
 
-meow
 
 end
